@@ -6,7 +6,7 @@
 PS5 Store is a application that used to selling various product about PlayStation 5 like stick controller, mice, video game etc. This project just provide user interface design that converted using Flutter Framework.
 
 ## Demo
-Get Flutix on PlayStore <a href="https://play.google.com/store/apps/details?id=com.abuazis.ps5store">https://play.google.com/store/apps/details?id=com.abuazis.ps5store</a>
+Get Flutix on PlayStore <a href="https://play.google.com/store/apps/details?id=com.abuaziz.ps5_store">https://play.google.com/store/apps/details?id=com.abuaziz.ps5_store</a>
 
 <p><img  src="https://raw.githubusercontent.com/TechieBlossom/ps5_neumorphic_app_ui/master/design.png"/></p>
 
